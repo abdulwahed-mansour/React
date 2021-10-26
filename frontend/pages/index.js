@@ -24,12 +24,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            
+
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
-            
+
           </a>
 
           <a
@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
-            
+
           </a>
 
           <a
@@ -45,7 +45,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Deploy &rarr;</h2>
-            
+
           </a>
         </div>
       </main>
